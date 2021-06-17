@@ -1,0 +1,402 @@
+"date";"location";"value"
+2019-10-01 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);12
+2019-10-01 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);96
+2019-10-01 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);18
+2019-10-01 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);24
+2019-10-01 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);9
+2019-10-01 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);23
+2019-10-01 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);43
+2019-10-01 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-01 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);12
+2019-10-01 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);29
+2019-10-01 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);42
+2019-10-01 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);65
+2019-10-01 00:00:00;RBNN (oblasť Rybného Námestia);34
+2019-10-02 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);12
+2019-10-02 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);16
+2019-10-02 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-02 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);18
+2019-10-02 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);39
+2019-10-02 00:00:00;RBNN (oblasť Rybného Námestia);32
+2019-10-02 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);51
+2019-10-02 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);16
+2019-10-02 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);12
+2019-10-02 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);79
+2019-10-02 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);35
+2019-10-02 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2019-10-02 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);38
+2019-10-03 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);50
+2019-10-03 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);18
+2019-10-03 00:00:00;RBNN (oblasť Rybného Námestia);42
+2019-10-03 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);56
+2019-10-03 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);22
+2019-10-03 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);44
+2019-10-03 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2019-10-03 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);11
+2019-10-03 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);4
+2019-10-03 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);30
+2019-10-03 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);20
+2019-10-03 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2019-10-03 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-04 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);31
+2019-10-04 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);28
+2019-10-04 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);15
+2019-10-04 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);116
+2019-10-04 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);27
+2019-10-04 00:00:00;RBNN (oblasť Rybného Námestia);32
+2019-10-04 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);145
+2019-10-04 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);30
+2019-10-04 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);48
+2019-10-04 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);8
+2019-10-04 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);21
+2019-10-04 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);30
+2019-10-04 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-05 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);46
+2019-10-05 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);8
+2019-10-05 00:00:00;NSLO (oblasť parku Námestia Slobody);1
+2019-10-05 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);43
+2019-10-05 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);14
+2019-10-05 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);75
+2019-10-05 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);7
+2019-10-05 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);23
+2019-10-05 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);21
+2019-10-05 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2019-10-05 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);57
+2019-10-05 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);16
+2019-10-05 00:00:00;RBNN (oblasť Rybného Námestia);33
+2019-10-06 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2019-10-06 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);37
+2019-10-06 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);17
+2019-10-06 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);15
+2019-10-06 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);24
+2019-10-06 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);21
+2019-10-06 00:00:00;RBNN (oblasť Rybného Námestia);58
+2019-10-06 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);79
+2019-10-06 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);105
+2019-10-06 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);34
+2019-10-06 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);49
+2019-10-06 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);11
+2019-10-06 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-07 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);28
+2019-10-07 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);24
+2019-10-07 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);45
+2019-10-07 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);20
+2019-10-07 00:00:00;RBNN (oblasť Rybného Námestia);53
+2019-10-07 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);73
+2019-10-07 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);25
+2019-10-07 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);29
+2019-10-07 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);44
+2019-10-07 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);7
+2019-10-07 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);16
+2019-10-07 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);9
+2019-10-07 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2019-10-08 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);22
+2019-10-08 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);2
+2019-10-08 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2019-10-08 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);33
+2019-10-08 00:00:00;RBNN (oblasť Rybného Námestia);51
+2019-10-08 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);52
+2019-10-08 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);57
+2019-10-08 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);13
+2019-10-08 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);16
+2019-10-08 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);51
+2019-10-08 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-08 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);20
+2019-10-08 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);7
+2019-10-09 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);75
+2019-10-09 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);27
+2019-10-09 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);19
+2019-10-09 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);13
+2019-10-09 00:00:00;NSLO (oblasť parku Námestia Slobody);11
+2019-10-09 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);43
+2019-10-09 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);46
+2019-10-09 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);9
+2019-10-09 00:00:00;RBNN (oblasť Rybného Námestia);54
+2019-10-09 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);13
+2019-10-09 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);46
+2019-10-09 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);46
+2019-10-09 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);101
+2019-10-10 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);22
+2019-10-10 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);12
+2019-10-10 00:00:00;NSLO (oblasť parku Námestia Slobody);17
+2019-10-10 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);45
+2019-10-10 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);65
+2019-10-10 00:00:00;RBNN (oblasť Rybného Námestia);60
+2019-10-10 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);51
+2019-10-10 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);12
+2019-10-10 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);31
+2019-10-10 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);27
+2019-10-10 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);13
+2019-10-10 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);102
+2019-10-10 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);26
+2019-10-11 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);75
+2019-10-11 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);113
+2019-10-11 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);39
+2019-10-11 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);46
+2019-10-11 00:00:00;RBNN (oblasť Rybného Námestia);45
+2019-10-11 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);10
+2019-10-11 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);180
+2019-10-11 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);50
+2019-10-11 00:00:00;NSLO (oblasť parku Námestia Slobody);21
+2019-10-11 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);14
+2019-10-11 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);46
+2019-10-11 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);23
+2019-10-11 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);23
+2019-10-12 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);12
+2019-10-12 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);28
+2019-10-12 00:00:00;RBNN (oblasť Rybného Námestia);69
+2019-10-12 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);35
+2019-10-12 00:00:00;NSLO (oblasť parku Námestia Slobody);12
+2019-10-12 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);27
+2019-10-12 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);26
+2019-10-12 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);121
+2019-10-12 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);12
+2019-10-12 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);47
+2019-10-12 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);59
+2019-10-12 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);12
+2019-10-12 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);96
+2019-10-13 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);41
+2019-10-13 00:00:00;NSLO (oblasť parku Námestia Slobody);2
+2019-10-13 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);34
+2019-10-13 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);30
+2019-10-13 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);169
+2019-10-13 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);14
+2019-10-13 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);70
+2019-10-13 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);67
+2019-10-13 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);113
+2019-10-13 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);16
+2019-10-13 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);47
+2019-10-13 00:00:00;RBNN (oblasť Rybného Námestia);64
+2019-10-13 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);18
+2019-10-14 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);120
+2019-10-14 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);35
+2019-10-14 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);23
+2019-10-14 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);81
+2019-10-14 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);63
+2019-10-14 00:00:00;RBNN (oblasť Rybného Námestia);63
+2019-10-14 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);10
+2019-10-14 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);29
+2019-10-14 00:00:00;NSLO (oblasť parku Námestia Slobody);15
+2019-10-14 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);54
+2019-10-14 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);22
+2019-10-15 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);14
+2019-10-15 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2019-10-15 00:00:00;RBNN (oblasť Rybného Námestia);35
+2019-10-15 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);34
+2019-10-15 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);60
+2019-10-15 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);96
+2019-10-15 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);40
+2019-10-15 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);59
+2019-10-15 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);19
+2019-10-15 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);18
+2019-10-15 00:00:00;NSLO (oblasť parku Námestia Slobody);8
+2019-10-15 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);8
+2019-10-15 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);17
+2019-10-16 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);25
+2019-10-16 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);15
+2019-10-16 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);81
+2019-10-16 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);23
+2019-10-16 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);29
+2019-10-16 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);17
+2019-10-16 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);32
+2019-10-16 00:00:00;RBNN (oblasť Rybného Námestia);52
+2019-10-16 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);13
+2019-10-16 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);28
+2019-10-16 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);65
+2019-10-16 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);125
+2019-10-16 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2019-10-17 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);22
+2019-10-17 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-17 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);32
+2019-10-17 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);4
+2019-10-17 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);35
+2019-10-17 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);16
+2019-10-17 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);36
+2019-10-17 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);87
+2019-10-17 00:00:00;RBNN (oblasť Rybného Námestia);41
+2019-10-17 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);61
+2019-10-17 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);58
+2019-10-17 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);27
+2019-10-17 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);25
+2019-10-18 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);43
+2019-10-18 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);4
+2019-10-18 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);48
+2019-10-18 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);16
+2019-10-18 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);37
+2019-10-18 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);94
+2019-10-18 00:00:00;NSLO (oblasť parku Námestia Slobody);21
+2019-10-18 00:00:00;RBNN (oblasť Rybného Námestia);58
+2019-10-18 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);101
+2019-10-18 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);134
+2019-10-18 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);24
+2019-10-18 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);29
+2019-10-18 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);33
+2019-10-19 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);73
+2019-10-19 00:00:00;RBNN (oblasť Rybného Námestia);74
+2019-10-19 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);90
+2019-10-19 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);36
+2019-10-19 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);9
+2019-10-19 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);11
+2019-10-19 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);115
+2019-10-19 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);26
+2019-10-19 00:00:00;NSLO (oblasť parku Námestia Slobody);10
+2019-10-19 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);21
+2019-10-19 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2019-10-19 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);36
+2019-10-19 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);17
+2019-10-20 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);69
+2019-10-20 00:00:00;NSLO (oblasť parku Námestia Slobody);8
+2019-10-20 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);17
+2019-10-20 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);30
+2019-10-20 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);181
+2019-10-20 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);54
+2019-10-20 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);20
+2019-10-20 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);22
+2019-10-20 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);46
+2019-10-20 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);48
+2019-10-20 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);35
+2019-10-20 00:00:00;RBNN (oblasť Rybného Námestia);64
+2019-10-20 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);80
+2019-10-21 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);141
+2019-10-21 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);26
+2019-10-21 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);39
+2019-10-21 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);45
+2019-10-21 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);14
+2019-10-21 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2019-10-21 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);35
+2019-10-21 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);26
+2019-10-21 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);32
+2019-10-21 00:00:00;NSLO (oblasť parku Námestia Slobody);13
+2019-10-21 00:00:00;RBNN (oblasť Rybného Námestia);51
+2019-10-21 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);68
+2019-10-21 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);71
+2019-10-22 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-22 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);92
+2019-10-22 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);35
+2019-10-22 00:00:00;RBNN (oblasť Rybného Námestia);52
+2019-10-22 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);12
+2019-10-22 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);22
+2019-10-22 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);32
+2019-10-22 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);25
+2019-10-22 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);49
+2019-10-22 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);16
+2019-10-22 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);116
+2019-10-22 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);70
+2019-10-22 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);18
+2019-10-23 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);30
+2019-10-23 00:00:00;RBNN (oblasť Rybného Námestia);56
+2019-10-23 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-23 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);14
+2019-10-23 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);52
+2019-10-23 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);59
+2019-10-23 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);165
+2019-10-23 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);29
+2019-10-23 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);45
+2019-10-23 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);49
+2019-10-23 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);23
+2019-10-23 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);85
+2019-10-23 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);11
+2019-10-24 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);33
+2019-10-24 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);48
+2019-10-24 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);33
+2019-10-24 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);63
+2019-10-24 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);37
+2019-10-24 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);53
+2019-10-24 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);83
+2019-10-24 00:00:00;RBNN (oblasť Rybného Námestia);55
+2019-10-24 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);94
+2019-10-24 00:00:00;NSLO (oblasť parku Námestia Slobody);18
+2019-10-24 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2019-10-24 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);25
+2019-10-24 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);12
+2019-10-25 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);37
+2019-10-25 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);72
+2019-10-25 00:00:00;RBNN (oblasť Rybného Námestia);59
+2019-10-25 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);89
+2019-10-25 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);21
+2019-10-25 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);14
+2019-10-25 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);21
+2019-10-25 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);37
+2019-10-25 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);29
+2019-10-25 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);102
+2019-10-25 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);24
+2019-10-25 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);24
+2019-10-25 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-26 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);33
+2019-10-26 00:00:00;RBNN (oblasť Rybného Námestia);101
+2019-10-26 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);18
+2019-10-26 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2019-10-26 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);35
+2019-10-26 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);82
+2019-10-26 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);21
+2019-10-26 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);122
+2019-10-26 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);18
+2019-10-26 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);20
+2019-10-26 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);106
+2019-10-26 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);64
+2019-10-26 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);93
+2019-10-27 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);79
+2019-10-27 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);42
+2019-10-27 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);16
+2019-10-27 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);70
+2019-10-27 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);29
+2019-10-27 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);187
+2019-10-27 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);18
+2019-10-27 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);21
+2019-10-27 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);140
+2019-10-27 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);49
+2019-10-27 00:00:00;NSLO (oblasť parku Námestia Slobody);15
+2019-10-27 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);41
+2019-10-27 00:00:00;RBNN (oblasť Rybného Námestia);79
+2019-10-28 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);36
+2019-10-28 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);15
+2019-10-28 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);28
+2019-10-28 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2019-10-28 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);63
+2019-10-28 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2019-10-28 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);12
+2019-10-28 00:00:00;RBNN (oblasť Rybného Námestia);47
+2019-10-28 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);16
+2019-10-28 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);24
+2019-10-28 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);13
+2019-10-28 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);42
+2019-10-28 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);9
+2019-10-29 00:00:00;RBNN (oblasť Rybného Námestia);42
+2019-10-29 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);30
+2019-10-29 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);34
+2019-10-29 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);12
+2019-10-29 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);20
+2019-10-29 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2019-10-29 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);14
+2019-10-29 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);25
+2019-10-29 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-29 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);91
+2019-10-29 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);5
+2019-10-29 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);26
+2019-10-29 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);80
+2019-10-30 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);11
+2019-10-30 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);50
+2019-10-30 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2019-10-30 00:00:00;NSLO (oblasť parku Námestia Slobody);5
+2019-10-30 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);31
+2019-10-30 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);34
+2019-10-30 00:00:00;RBNN (oblasť Rybného Námestia);34
+2019-10-30 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);14
+2019-10-30 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);43
+2019-10-30 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);9
+2019-10-30 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);14
+2019-10-30 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);19
+2019-10-30 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);16
+2019-10-31 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);9
+2019-10-31 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);50
+2019-10-31 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);23
+2019-10-31 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);33
+2019-10-31 00:00:00;NSLO (oblasť parku Námestia Slobody);6
+2019-10-31 00:00:00;RBNN (oblasť Rybného Námestia);39
+2019-10-31 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);12
+2019-10-31 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);19
+2019-10-31 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);12
+2019-10-31 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);22
+2019-10-31 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);41
+2019-10-31 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);11
+2019-10-31 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);15

@@ -18,7 +18,7 @@ Našim cieľom bolo predikovať mŕtvicu na základe dát.
 Bratislava WiFi.ipynb - pôvodný Jupyter Notebook na analýzu a predikciu WiFi sieti v Bratislave. Na základe konzultácií po prvej prezentácii bolo prijaté rozhodnutie prejsť na iný, predpripravený dataset.
 Predikcia mrtvic.ipynb - finálny Jupyter Notebook na analýzu a predikciu mrtvic. 
 oznal_projekt.pdf - Správa o riešení semestrálneho projektu 
-data/ - súbor obsahuje datasety s ktorými sme pracovali v rámci projektu.
+data/ - súbor obsahuje datasety, s ktorými sme pracovali v rámci projektu.
 
 
 ## Zdroj dát

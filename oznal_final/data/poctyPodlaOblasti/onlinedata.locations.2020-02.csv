@@ -1,0 +1,571 @@
+"date";"location";"value"
+2020-02-01 00:00:00;RBNN (oblasť Rybného Námestia);64
+2020-02-01 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);19
+2020-02-01 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);26
+2020-02-01 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);40
+2020-02-01 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);10
+2020-02-01 00:00:00;HURN (oblasť Hurbanovho námestia);43
+2020-02-01 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);25
+2020-02-01 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);41
+2020-02-01 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);29
+2020-02-01 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2020-02-01 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);72
+2020-02-01 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);11
+2020-02-01 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);23
+2020-02-01 00:00:00;NSLO (oblasť parku Námestia Slobody);12
+2020-02-01 00:00:00;NSNP (oblasť Námestia SNP);14
+2020-02-01 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-01 00:00:00;OBCH ( oblasť Obchodná ulica stred);16
+2020-02-01 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);17
+2020-02-01 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);31
+2020-02-02 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);13
+2020-02-02 00:00:00;HURN (oblasť Hurbanovho námestia);25
+2020-02-02 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);14
+2020-02-02 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);35
+2020-02-02 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);50
+2020-02-02 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);21
+2020-02-02 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);4
+2020-02-02 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2020-02-02 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);11
+2020-02-02 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);20
+2020-02-02 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2020-02-02 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);18
+2020-02-02 00:00:00;NSNP (oblasť Námestia SNP);10
+2020-02-02 00:00:00;OBCH ( oblasť Obchodná ulica stred);8
+2020-02-02 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);21
+2020-02-02 00:00:00;RBNN (oblasť Rybného Námestia);44
+2020-02-02 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2020-02-02 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);28
+2020-02-02 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);5
+2020-02-03 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);11
+2020-02-03 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);2
+2020-02-03 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);11
+2020-02-03 00:00:00;RBNN (oblasť Rybného Námestia);23
+2020-02-03 00:00:00;OBCH ( oblasť Obchodná ulica stred);8
+2020-02-03 00:00:00;NSLO (oblasť parku Námestia Slobody);7
+2020-02-03 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-03 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2020-02-03 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);23
+2020-02-03 00:00:00;HURN (oblasť Hurbanovho námestia);19
+2020-02-03 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);4
+2020-02-03 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);30
+2020-02-03 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-03 00:00:00;NSNP (oblasť Námestia SNP);8
+2020-02-03 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);17
+2020-02-03 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);5
+2020-02-03 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);11
+2020-02-03 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);14
+2020-02-03 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);25
+2020-02-04 00:00:00;OBCH ( oblasť Obchodná ulica stred);3
+2020-02-04 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);8
+2020-02-04 00:00:00;RBNN (oblasť Rybného Námestia);25
+2020-02-04 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);28
+2020-02-04 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);12
+2020-02-04 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);6
+2020-02-04 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);9
+2020-02-04 00:00:00;NSNP (oblasť Námestia SNP);2
+2020-02-04 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);5
+2020-02-04 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);9
+2020-02-04 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);0
+2020-02-04 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);16
+2020-02-04 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);11
+2020-02-04 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);9
+2020-02-04 00:00:00;HURN (oblasť Hurbanovho námestia);18
+2020-02-04 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);5
+2020-02-04 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);9
+2020-02-04 00:00:00;NSLO (oblasť parku Námestia Slobody);0
+2020-02-04 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-05 00:00:00;NSNP (oblasť Námestia SNP);7
+2020-02-05 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);2
+2020-02-05 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);20
+2020-02-05 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);16
+2020-02-05 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);12
+2020-02-05 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2020-02-05 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);13
+2020-02-05 00:00:00;OBCH ( oblasť Obchodná ulica stred);6
+2020-02-05 00:00:00;RBNN (oblasť Rybného Námestia);9
+2020-02-05 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);3
+2020-02-05 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);19
+2020-02-05 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);14
+2020-02-05 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);5
+2020-02-05 00:00:00;HURN (oblasť Hurbanovho námestia);12
+2020-02-05 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);4
+2020-02-05 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);11
+2020-02-05 00:00:00;NSLO (oblasť parku Námestia Slobody);1
+2020-02-05 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-05 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);14
+2020-02-06 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);12
+2020-02-06 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);31
+2020-02-06 00:00:00;RBNN (oblasť Rybného Námestia);32
+2020-02-06 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-06 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);12
+2020-02-06 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);10
+2020-02-06 00:00:00;HURN (oblasť Hurbanovho námestia);19
+2020-02-06 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);8
+2020-02-06 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-06 00:00:00;OBCH ( oblasť Obchodná ulica stred);8
+2020-02-06 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);25
+2020-02-06 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-06 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);25
+2020-02-06 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);9
+2020-02-06 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);17
+2020-02-06 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);13
+2020-02-06 00:00:00;NSLO (oblasť parku Námestia Slobody);3
+2020-02-06 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);1
+2020-02-06 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-07 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);16
+2020-02-07 00:00:00;OBCH ( oblasť Obchodná ulica stred);14
+2020-02-07 00:00:00;HURN (oblasť Hurbanovho námestia);25
+2020-02-07 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);39
+2020-02-07 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-07 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);12
+2020-02-07 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);6
+2020-02-07 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2020-02-07 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-07 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);43
+2020-02-07 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);14
+2020-02-07 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);11
+2020-02-07 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);16
+2020-02-07 00:00:00;NSLO (oblasť parku Námestia Slobody);2
+2020-02-07 00:00:00;RBNN (oblasť Rybného Námestia);36
+2020-02-07 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);20
+2020-02-07 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-07 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-07 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);30
+2020-02-08 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);17
+2020-02-08 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2020-02-08 00:00:00;NSNP (oblasť Námestia SNP);13
+2020-02-08 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);45
+2020-02-08 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);15
+2020-02-08 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);17
+2020-02-08 00:00:00;OBCH ( oblasť Obchodná ulica stred);17
+2020-02-08 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);34
+2020-02-08 00:00:00;RBNN (oblasť Rybného Námestia);43
+2020-02-08 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);20
+2020-02-08 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);15
+2020-02-08 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);6
+2020-02-08 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);9
+2020-02-08 00:00:00;HURN (oblasť Hurbanovho námestia);21
+2020-02-08 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);17
+2020-02-08 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);25
+2020-02-08 00:00:00;NSLO (oblasť parku Námestia Slobody);2
+2020-02-08 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2020-02-08 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-09 00:00:00;NSNP (oblasť Námestia SNP);8
+2020-02-09 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);37
+2020-02-09 00:00:00;NSLO (oblasť parku Námestia Slobody);3
+2020-02-09 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);7
+2020-02-09 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);29
+2020-02-09 00:00:00;OBCH ( oblasť Obchodná ulica stred);4
+2020-02-09 00:00:00;RBNN (oblasť Rybného Námestia);31
+2020-02-09 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);34
+2020-02-09 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);13
+2020-02-09 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);12
+2020-02-09 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);16
+2020-02-09 00:00:00;HURN (oblasť Hurbanovho námestia);12
+2020-02-09 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);22
+2020-02-09 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);20
+2020-02-09 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);16
+2020-02-09 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);16
+2020-02-09 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);7
+2020-02-09 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);2
+2020-02-09 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-10 00:00:00;RBNN (oblasť Rybného Námestia);27
+2020-02-10 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-10 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);9
+2020-02-10 00:00:00;OBCH ( oblasť Obchodná ulica stred);4
+2020-02-10 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);8
+2020-02-10 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);13
+2020-02-10 00:00:00;HURN (oblasť Hurbanovho námestia);9
+2020-02-10 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);24
+2020-02-10 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);13
+2020-02-10 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);2
+2020-02-10 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2020-02-10 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2020-02-10 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);17
+2020-02-10 00:00:00;NSNP (oblasť Námestia SNP);7
+2020-02-10 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2020-02-10 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);11
+2020-02-10 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);8
+2020-02-10 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);18
+2020-02-10 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);3
+2020-02-11 00:00:00;NSLO (oblasť parku Námestia Slobody);12
+2020-02-11 00:00:00;NSNP (oblasť Námestia SNP);7
+2020-02-11 00:00:00;RBNN (oblasť Rybného Námestia);24
+2020-02-11 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);14
+2020-02-11 00:00:00;HURN (oblasť Hurbanovho námestia);10
+2020-02-11 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);15
+2020-02-11 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);4
+2020-02-11 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);19
+2020-02-11 00:00:00;OBCH ( oblasť Obchodná ulica stred);8
+2020-02-11 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);17
+2020-02-11 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);10
+2020-02-11 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);17
+2020-02-11 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);18
+2020-02-11 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);9
+2020-02-11 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);21
+2020-02-11 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);18
+2020-02-11 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-11 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);9
+2020-02-11 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);2
+2020-02-11 00:00:00;KNPM (oblasť Jedlíkovej ulice);4
+2020-02-12 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2020-02-12 00:00:00;KNPM (oblasť Jedlíkovej ulice);2
+2020-02-12 00:00:00;RBNN (oblasť Rybného Námestia);30
+2020-02-12 00:00:00;NSNP (oblasť Námestia SNP);5
+2020-02-12 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);4
+2020-02-12 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2020-02-12 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);13
+2020-02-12 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);12
+2020-02-12 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);7
+2020-02-12 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);14
+2020-02-12 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);6
+2020-02-12 00:00:00;OBCH ( oblasť Obchodná ulica stred);10
+2020-02-12 00:00:00;HURN (oblasť Hurbanovho námestia);12
+2020-02-12 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2020-02-12 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-12 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);13
+2020-02-12 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);47
+2020-02-12 00:00:00;NSLO (oblasť parku Námestia Slobody);1
+2020-02-12 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);25
+2020-02-12 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);0
+2020-02-13 00:00:00;NSLO (oblasť parku Námestia Slobody);8
+2020-02-13 00:00:00;RBNN (oblasť Rybného Námestia);26
+2020-02-13 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);21
+2020-02-13 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);22
+2020-02-13 00:00:00;HURN (oblasť Hurbanovho námestia);19
+2020-02-13 00:00:00;OBCH ( oblasť Obchodná ulica stred);11
+2020-02-13 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);6
+2020-02-13 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2020-02-13 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);4
+2020-02-13 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);21
+2020-02-13 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);24
+2020-02-13 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);15
+2020-02-13 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);26
+2020-02-13 00:00:00;NSNP (oblasť Námestia SNP);5
+2020-02-13 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);20
+2020-02-13 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);35
+2020-02-13 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);4
+2020-02-13 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);9
+2020-02-13 00:00:00;KNPM (oblasť Jedlíkovej ulice);0
+2020-02-13 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-14 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);17
+2020-02-14 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);19
+2020-02-14 00:00:00;RBNN (oblasť Rybného Námestia);27
+2020-02-14 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);10
+2020-02-14 00:00:00;HURN (oblasť Hurbanovho námestia);22
+2020-02-14 00:00:00;OBCH ( oblasť Obchodná ulica stred);8
+2020-02-14 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);5
+2020-02-14 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);11
+2020-02-14 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);26
+2020-02-14 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);19
+2020-02-14 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);33
+2020-02-14 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);20
+2020-02-14 00:00:00;KNPM (oblasť Jedlíkovej ulice);5
+2020-02-14 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);8
+2020-02-14 00:00:00;NSLO (oblasť parku Námestia Slobody);2
+2020-02-14 00:00:00;NSNP (oblasť Námestia SNP);11
+2020-02-14 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);1
+2020-02-14 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);11
+2020-02-14 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);25
+2020-02-14 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-15 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);55
+2020-02-15 00:00:00;RBNN (oblasť Rybného Námestia);57
+2020-02-15 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);18
+2020-02-15 00:00:00;HURN (oblasť Hurbanovho námestia);37
+2020-02-15 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);13
+2020-02-15 00:00:00;KNPM (oblasť Jedlíkovej ulice);1
+2020-02-15 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);14
+2020-02-15 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);24
+2020-02-15 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);44
+2020-02-15 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);36
+2020-02-15 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);47
+2020-02-15 00:00:00;OBCH ( oblasť Obchodná ulica stred);10
+2020-02-15 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);12
+2020-02-15 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);2
+2020-02-15 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2020-02-15 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);15
+2020-02-15 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);29
+2020-02-15 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-15 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);21
+2020-02-15 00:00:00;NSNP (oblasť Námestia SNP);12
+2020-02-16 00:00:00;HURN (oblasť Hurbanovho námestia);18
+2020-02-16 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);14
+2020-02-16 00:00:00;KNPM (oblasť Jedlíkovej ulice);4
+2020-02-16 00:00:00;RBNN (oblasť Rybného Námestia);43
+2020-02-16 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);38
+2020-02-16 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2020-02-16 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);10
+2020-02-16 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);20
+2020-02-16 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);23
+2020-02-16 00:00:00;OBCH ( oblasť Obchodná ulica stred);7
+2020-02-16 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);17
+2020-02-16 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);37
+2020-02-16 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);21
+2020-02-16 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);86
+2020-02-16 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);10
+2020-02-16 00:00:00;NSNP (oblasť Námestia SNP);8
+2020-02-16 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);18
+2020-02-16 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-16 00:00:00;NSLO (oblasť parku Námestia Slobody);3
+2020-02-16 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);16
+2020-02-17 00:00:00;HURN (oblasť Hurbanovho námestia);20
+2020-02-17 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);20
+2020-02-17 00:00:00;NSNP (oblasť Námestia SNP);4
+2020-02-17 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);11
+2020-02-17 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);10
+2020-02-17 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);18
+2020-02-17 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);26
+2020-02-17 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);19
+2020-02-17 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);18
+2020-02-17 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);7
+2020-02-17 00:00:00;KNPM (oblasť Jedlíkovej ulice);3
+2020-02-17 00:00:00;OBCH ( oblasť Obchodná ulica stred);12
+2020-02-17 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);7
+2020-02-17 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);39
+2020-02-17 00:00:00;RBNN (oblasť Rybného Námestia);34
+2020-02-17 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);28
+2020-02-17 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);15
+2020-02-17 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);16
+2020-02-17 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);8
+2020-02-17 00:00:00;NSLO (oblasť parku Námestia Slobody);9
+2020-02-18 00:00:00;RBNN (oblasť Rybného Námestia);17
+2020-02-18 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);19
+2020-02-18 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);20
+2020-02-18 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);18
+2020-02-18 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);10
+2020-02-18 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);7
+2020-02-18 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);9
+2020-02-18 00:00:00;NSNP (oblasť Námestia SNP);7
+2020-02-18 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);17
+2020-02-18 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);19
+2020-02-18 00:00:00;KNPM (oblasť Jedlíkovej ulice);2
+2020-02-18 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);20
+2020-02-18 00:00:00;NSLO (oblasť parku Námestia Slobody);9
+2020-02-18 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);16
+2020-02-18 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);2
+2020-02-18 00:00:00;HURN (oblasť Hurbanovho námestia);27
+2020-02-18 00:00:00;OBCH ( oblasť Obchodná ulica stred);14
+2020-02-18 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);19
+2020-02-18 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);5
+2020-02-18 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-19 00:00:00;RBNN (oblasť Rybného Námestia);40
+2020-02-19 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);13
+2020-02-19 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);25
+2020-02-19 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);26
+2020-02-19 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);18
+2020-02-19 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);31
+2020-02-19 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-19 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);15
+2020-02-19 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);10
+2020-02-19 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);11
+2020-02-19 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);11
+2020-02-19 00:00:00;KNPM (oblasť Jedlíkovej ulice);7
+2020-02-19 00:00:00;NSLO (oblasť parku Námestia Slobody);3
+2020-02-19 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);10
+2020-02-19 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2020-02-19 00:00:00;HURN (oblasť Hurbanovho námestia);20
+2020-02-19 00:00:00;OBCH ( oblasť Obchodná ulica stred);16
+2020-02-19 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);21
+2020-02-19 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);3
+2020-02-19 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);11
+2020-02-20 00:00:00;RBNN (oblasť Rybného Námestia);42
+2020-02-20 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);9
+2020-02-20 00:00:00;OBCH ( oblasť Obchodná ulica stred);5
+2020-02-20 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);11
+2020-02-20 00:00:00;HURN (oblasť Hurbanovho námestia);27
+2020-02-20 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);3
+2020-02-20 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);15
+2020-02-20 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);44
+2020-02-20 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);24
+2020-02-20 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);11
+2020-02-20 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);19
+2020-02-20 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);21
+2020-02-20 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);15
+2020-02-20 00:00:00;NSLO (oblasť parku Námestia Slobody);6
+2020-02-20 00:00:00;NSNP (oblasť Námestia SNP);10
+2020-02-20 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);3
+2020-02-20 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);5
+2020-02-20 00:00:00;KNPM (oblasť Jedlíkovej ulice);1
+2020-02-20 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);22
+2020-02-20 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);4
+2020-02-21 00:00:00;RBNN (oblasť Rybného Námestia);27
+2020-02-21 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);13
+2020-02-21 00:00:00;HURN (oblasť Hurbanovho námestia);14
+2020-02-21 00:00:00;OBCH ( oblasť Obchodná ulica stred);14
+2020-02-21 00:00:00;NSLO (oblasť parku Námestia Slobody);13
+2020-02-21 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);16
+2020-02-21 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);14
+2020-02-21 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);36
+2020-02-21 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);21
+2020-02-21 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);17
+2020-02-21 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);13
+2020-02-21 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);9
+2020-02-21 00:00:00;NSNP (oblasť Námestia SNP);18
+2020-02-21 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);8
+2020-02-21 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);0
+2020-02-21 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);2
+2020-02-21 00:00:00;KNPM (oblasť Jedlíkovej ulice);3
+2020-02-21 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);3
+2020-02-21 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);7
+2020-02-21 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);26
+2020-02-22 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);55
+2020-02-22 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-22 00:00:00;RBNN (oblasť Rybného Námestia);42
+2020-02-22 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);27
+2020-02-22 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-22 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);17
+2020-02-22 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);24
+2020-02-22 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);15
+2020-02-22 00:00:00;HURN (oblasť Hurbanovho námestia);39
+2020-02-22 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);14
+2020-02-22 00:00:00;KNPM (oblasť Jedlíkovej ulice);2
+2020-02-22 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);8
+2020-02-22 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-22 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);21
+2020-02-22 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);49
+2020-02-22 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);46
+2020-02-22 00:00:00;OBCH ( oblasť Obchodná ulica stred);12
+2020-02-22 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);23
+2020-02-22 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);0
+2020-02-22 00:00:00;NSLO (oblasť parku Námestia Slobody);8
+2020-02-23 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);35
+2020-02-23 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);7
+2020-02-23 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);62
+2020-02-23 00:00:00;RBNN (oblasť Rybného Námestia);36
+2020-02-23 00:00:00;NSNP (oblasť Námestia SNP);8
+2020-02-23 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);15
+2020-02-23 00:00:00;NSLO (oblasť parku Námestia Slobody);2
+2020-02-23 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);14
+2020-02-23 00:00:00;HURN (oblasť Hurbanovho námestia);27
+2020-02-23 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);11
+2020-02-23 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);15
+2020-02-23 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-23 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);2
+2020-02-23 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);15
+2020-02-23 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);18
+2020-02-23 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);27
+2020-02-23 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);9
+2020-02-23 00:00:00;OBCH ( oblasť Obchodná ulica stred);6
+2020-02-23 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);0
+2020-02-23 00:00:00;KNPM (oblasť Jedlíkovej ulice);1
+2020-02-24 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);23
+2020-02-24 00:00:00;RBNN (oblasť Rybného Námestia);28
+2020-02-24 00:00:00;KNPM (oblasť Jedlíkovej ulice);2
+2020-02-24 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);24
+2020-02-24 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);8
+2020-02-24 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);11
+2020-02-24 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);15
+2020-02-24 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);10
+2020-02-24 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);25
+2020-02-24 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);15
+2020-02-24 00:00:00;HURN (oblasť Hurbanovho námestia);20
+2020-02-24 00:00:00;OBCH ( oblasť Obchodná ulica stred);10
+2020-02-24 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-24 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-24 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);15
+2020-02-24 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);26
+2020-02-24 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);16
+2020-02-24 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);12
+2020-02-24 00:00:00;NSLO (oblasť parku Námestia Slobody);3
+2020-02-24 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);1
+2020-02-25 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);35
+2020-02-25 00:00:00;RBNN (oblasť Rybného Námestia);33
+2020-02-25 00:00:00;NSNP (oblasť Námestia SNP);15
+2020-02-25 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);17
+2020-02-25 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);17
+2020-02-25 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);2
+2020-02-25 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);16
+2020-02-25 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);24
+2020-02-25 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);9
+2020-02-25 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);39
+2020-02-25 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);16
+2020-02-25 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);6
+2020-02-25 00:00:00;HURN (oblasť Hurbanovho námestia);13
+2020-02-25 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-25 00:00:00;OBCH ( oblasť Obchodná ulica stred);10
+2020-02-25 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);34
+2020-02-25 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);23
+2020-02-25 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);26
+2020-02-25 00:00:00;NSLO (oblasť parku Námestia Slobody);8
+2020-02-25 00:00:00;KNPM (oblasť Jedlíkovej ulice);0
+2020-02-26 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);22
+2020-02-26 00:00:00;RBNN (oblasť Rybného Námestia);16
+2020-02-26 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-26 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);12
+2020-02-26 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);5
+2020-02-26 00:00:00;NSLO (oblasť parku Námestia Slobody);1
+2020-02-26 00:00:00;NSNP (oblasť Námestia SNP);9
+2020-02-26 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);19
+2020-02-26 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);11
+2020-02-26 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);16
+2020-02-26 00:00:00;HURN (oblasť Hurbanovho námestia);19
+2020-02-26 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);14
+2020-02-26 00:00:00;KNPM (oblasť Jedlíkovej ulice);2
+2020-02-26 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);10
+2020-02-26 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);26
+2020-02-26 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);1
+2020-02-26 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);8
+2020-02-26 00:00:00;OBCH ( oblasť Obchodná ulica stred);12
+2020-02-26 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-26 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);7
+2020-02-27 00:00:00;NSNP (oblasť Námestia SNP);10
+2020-02-27 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);24
+2020-02-27 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2020-02-27 00:00:00;RBNN (oblasť Rybného Námestia);26
+2020-02-27 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);34
+2020-02-27 00:00:00;HURN (oblasť Hurbanovho námestia);21
+2020-02-27 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);13
+2020-02-27 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);14
+2020-02-27 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);11
+2020-02-27 00:00:00;KNPM (oblasť Jedlíkovej ulice);0
+2020-02-27 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);14
+2020-02-27 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);15
+2020-02-27 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);44
+2020-02-27 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);14
+2020-02-27 00:00:00;OBCH ( oblasť Obchodná ulica stred);9
+2020-02-27 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);4
+2020-02-27 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);18
+2020-02-27 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-27 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);4
+2020-02-27 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);9
+2020-02-28 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);33
+2020-02-28 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);20
+2020-02-28 00:00:00;RBNN (oblasť Rybného Námestia);23
+2020-02-28 00:00:00;HURN (oblasť Hurbanovho námestia);8
+2020-02-28 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-28 00:00:00;KNPM (oblasť Jedlíkovej ulice);3
+2020-02-28 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);7
+2020-02-28 00:00:00;NSLO (oblasť parku Námestia Slobody);4
+2020-02-28 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);8
+2020-02-28 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);24
+2020-02-28 00:00:00;OBCH ( oblasť Obchodná ulica stred);16
+2020-02-28 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);0
+2020-02-28 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);10
+2020-02-28 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);14
+2020-02-28 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);0
+2020-02-28 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);14
+2020-02-28 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);10
+2020-02-28 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);3
+2020-02-28 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);12
+2020-02-28 00:00:00;NSNP (oblasť Námestia SNP);11
+2020-02-29 00:00:00;KOLN (oblasť spodnej časti Kollárovho námestia);18
+2020-02-29 00:00:00;RBNN (oblasť Rybného Námestia);46
+2020-02-29 00:00:00;HVZN (oblasť Hviezdoslavovho Námestia v okolí ambasády USA);23
+2020-02-29 00:00:00;ZMCK (oblasť rohu Židovskej a Kapucínskej ulice);25
+2020-02-29 00:00:00;NSNP (oblasť Námestia SNP);12
+2020-02-29 00:00:00;PAMV (oblasť Pamätníka Víťazstva a pred SND);39
+2020-02-29 00:00:00;RIGL (oblasť Rigeleho a Rázusovho Nábrežia);10
+2020-02-29 00:00:00;ZIDO (oblasť Židovskej ulice pri dobrom pastierovi);9
+2020-02-29 00:00:00;HURN (oblasť Hurbanovho námestia);26
+2020-02-29 00:00:00;VNTU (oblasť križovania ulíc Ventúrska-Michalská-Sedlárska);8
+2020-02-29 00:00:00;KNPM (oblasť Jedlíkovej ulice);3
+2020-02-29 00:00:00;NLST (oblasť Námestia Ľudovíta Štúra);12
+2020-02-29 00:00:00;POST (oblasť križovania ulíc Poštová - Obchodná);26
+2020-02-29 00:00:00;HLVN (oblasť Hlavného Námestia, Františkánskeho Námestia a Starej Radnice);21
+2020-02-29 00:00:00;KLOB (oblasť Klobučníckej a Námestia SNP pred Starou Tržnicou);42
+2020-02-29 00:00:00;OBCH ( oblasť Obchodná ulica stred);17
+2020-02-29 00:00:00;OSPR (oblasť  Osobného prístavu a pred SNM);5
+2020-02-29 00:00:00;SAFK (oblasť Šafárikovho Námestia pri UK);19
+2020-02-29 00:00:00;FJNN (oblasť Fajnorovho Nábrežia pred SPŠS);4
+2020-02-29 00:00:00;NSLO (oblasť parku Námestia Slobody);9
